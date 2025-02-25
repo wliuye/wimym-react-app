@@ -23,6 +23,6 @@ export default function WeatherIcon(props) {
     "50n": "FOG",
   };
   return (
-    <ReactAnimatedWeather icon="RAIN" color="yellow" size={64} animate={true} />
+    <ReactAnimatedWeather icon="RAIN" color="purple" size={64} animate={true} />
   );
 }
